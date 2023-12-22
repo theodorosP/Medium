@@ -150,4 +150,3 @@ for i in range(len(test_arima)):
   predictions.append(float(pred_value))
   originals.append(float(original_value))
 
-
